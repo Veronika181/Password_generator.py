@@ -1,0 +1,1 @@
+This Python script generates random passwords of variable lengths based on user input. It utilizes the random and string modules to select characters from lowercase letters, uppercase letters, digits, and punctuation symbols. Users specify the desired length of the password, and the script then generates and prints the password.
